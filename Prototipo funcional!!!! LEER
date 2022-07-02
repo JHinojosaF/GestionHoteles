@@ -1,2 +1,3 @@
 En la carpeta GHotel se encuentra el trabajo en netBeans, para ejecutarlo, es necesario inicializar la base de datos en un servidor local (localhost).
 El archivo .zip "Script Base de datos+ Scripts con sql insert datos ejemplo.zip" contiene el script para generar la base de datos y ademas scripts para inyectar datos a la BD.
+Tras haber inicializado la base de datos, en GHotel>dist> se encuentra el ejecutable.
